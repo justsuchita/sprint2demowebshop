@@ -1,0 +1,830 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "Succesful login on entering valid Email and password",
+        "description": "",
+        "id": "login;succesful-login-on-entering-valid-email-and-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9618564400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User is on Demo webshop Login page",
+            "match": {
+              "location": "Logindws.user_is_on_Demo_webshop_Login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2203715800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters the valid email and password",
+            "match": {
+              "location": "Logindws.user_enters_the_valid_email_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4001125800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "clicks the login button",
+            "match": {
+              "location": "Logindws.clicks_the_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1210648700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user is navigated to home page",
+            "match": {
+              "location": "Logindws.user_is_navigated_to_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@SuccessfulLogin"
+          }
+        ]
+      },
+      {
+        "line": 11,
+        "name": "Unsuccesful login on entering valid Email and invalid password",
+        "description": "",
+        "id": "login;unsuccesful-login-on-entering-valid-email-and-invalid-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8539203100,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "User is on Demo webshop Login page",
+            "match": {
+              "location": "Logindws.user_is_on_Demo_webshop_Login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2198537200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user enters the valid email and invalid password",
+            "match": {
+              "location": "Logindws.user_enters_the_valid_email_and_invalid_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3524448900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "clicks the login button",
+            "match": {
+              "location": "Logindws.clicks_the_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1488243100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "display alert message",
+            "match": {
+              "location": "Logindws.display_alert_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@UnsuccessfulLogin"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "Unsuccesful login on entering invalid email and invalid password",
+        "description": "",
+        "id": "login;unsuccesful-login-on-entering-invalid-email-and-invalid-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9751471000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User is on Demo webshop Login page",
+            "match": {
+              "location": "Logindws.user_is_on_Demo_webshop_Login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2208032400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user enters the invlid email and password",
+            "match": {
+              "location": "Logindws.user_enters_the_invlid_email_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3508287900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "clicks the login button",
+            "match": {
+              "location": "Logindws.clicks_the_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1482193000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "display alert message",
+            "match": {
+              "location": "Logindws.display_alert_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 16,
+            "name": "@UnsuccessfulLogin"
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Unsuccesful login on entering invalid email and valid password",
+        "description": "",
+        "id": "login;unsuccesful-login-on-entering-invalid-email-and-valid-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9242519100,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User is on Demo webshop Login page",
+            "match": {
+              "location": "Logindws.user_is_on_Demo_webshop_Login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2191133300,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "user enters the invlid email and valid password",
+            "match": {
+              "location": "Logindws.user_enters_the_invlid_email_and_valid_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3563137300,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "clicks the login button",
+            "match": {
+              "location": "Logindws.clicks_the_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1462201800,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "display alert message",
+            "match": {
+              "location": "Logindws.display_alert_message()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 22,
+            "name": "@UnsuccessfulLogin"
+          }
+        ]
+      }
+    ],
+    "name": "login",
+    "description": "",
+    "id": "login",
+    "keyword": "Feature",
+    "uri": "logindws.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "User is on home page of the Demo Web Shop and Registration link is avaialble.",
+        "description": "user has also clicked on the registration link",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "line": 6,
+        "name": "Successful Regisration with valid data",
+        "description": "Description: to register, user needs to enter his Gender,First name,Last name,Email,password \u0026 confirm password",
+        "id": "registration;successful-regisration-with-valid-data",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13907219500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User is on Demo webshop registration page",
+            "match": {
+              "location": "Registrationdws.user_is_on_Demo_webshop_registration_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6932367900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user enters Gender,valid First name,Valid Last name,valid password and matching confirmPassword",
+            "match": {
+              "location": "Registrationdws.user_enters_Gender_valid_First_name_Valid_Last_name_valid_password_and_matching_confirmPassword()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2700380800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Message displayed Registration Successful",
+            "match": {
+              "location": "Registrationdws.message_displayed_Registration_Successful()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@SuccessfulRegistration"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "User is on home page of the Demo Web Shop and Registration link is avaialble.",
+        "description": "user has also clicked on the registration link",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "line": 12,
+        "name": "Failure in Registration on leaving the first Name empty",
+        "description": "",
+        "id": "registration;failure-in-registration-on-leaving-the-first-name-empty",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9348795600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "User is on Demo webshop Registration page",
+            "match": {
+              "location": "Registrationdws.user_is_on_Demo_webshop_Registration_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5667669600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user leaves first Name blank",
+            "match": {
+              "location": "Registrationdws.user_leaves_first_Name_blank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 176555400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "clicks the button",
+            "match": {
+              "location": "Registrationdws.clicks_the_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11428717500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "display alert msg",
+            "match": {
+              "location": "Registrationdws.display_alert_msg()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@SuccessfulRegistration"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "User is on home page of the Demo Web Shop and Registration link is avaialble.",
+        "description": "user has also clicked on the registration link",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "line": 18,
+        "name": "Failure in Registration on leaving the Last Name empty",
+        "description": "",
+        "id": "registration;failure-in-registration-on-leaving-the-last-name-empty",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9296230400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User is on Demo webshop Registration page",
+            "match": {
+              "location": "Registrationdws.user_is_on_Demo_webshop_Registration_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5828996900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user leaves last Name blank",
+            "match": {
+              "location": "Registrationdws.user_leaves_last_Name_blank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 113794200,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "clicks the button",
+            "match": {
+              "location": "Registrationdws.clicks_the_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11449472800,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "display alert last name msg",
+            "match": {
+              "location": "Registrationdws.display_alert_last_name_msg()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 17,
+            "name": "@SuccessfulRegistration"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "User is on home page of the Demo Web Shop and Registration link is avaialble.",
+        "description": "user has also clicked on the registration link",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "line": 24,
+        "name": "Failure in Registration on entering incorrect email format",
+        "description": "",
+        "id": "registration;failure-in-registration-on-entering-incorrect-email-format",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9735283100,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User is on Demo webshop Registration page",
+            "match": {
+              "location": "Registrationdws.user_is_on_Demo_webshop_Registration_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6734476400,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "user enters invalid email id",
+            "match": {
+              "location": "Registrationdws.user_enters_invalid_email_id()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 151146400,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "clicks the button",
+            "match": {
+              "location": "Registrationdws.clicks_the_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1437684900,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "display alert invalid email format msg",
+            "match": {
+              "location": "Registrationdws.display_alert_invalid_email_format_msg()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 23,
+            "name": "@SuccessfulRegistration"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "User is on home page of the Demo Web Shop and Registration link is avaialble.",
+        "description": "user has also clicked on the registration link",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "line": 30,
+        "name": "Failure in Registration on leaving the Email id empty",
+        "description": "",
+        "id": "registration;failure-in-registration-on-leaving-the-email-id-empty",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8511684500,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User is on Demo webshop Registration page",
+            "match": {
+              "location": "Registrationdws.user_is_on_Demo_webshop_Registration_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5640531400,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "user leaves Email id blank",
+            "match": {
+              "location": "Registrationdws.user_leaves_Email_id_blank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 172088900,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "clicks the button",
+            "match": {
+              "location": "Registrationdws.clicks_the_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11505627800,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "display alert email msg",
+            "match": {
+              "location": "Registrationdws.display_alert_email_msg()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 29,
+            "name": "@SuccessfulRegistration"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "User is on home page of the Demo Web Shop and Registration link is avaialble.",
+        "description": "user has also clicked on the registration link",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "line": 36,
+        "name": "Failure in Registration on leaving the confirm password empty",
+        "description": "",
+        "id": "registration;failure-in-registration-on-leaving-the-confirm-password-empty",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10581615800,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "User is on Demo webshop Registration page",
+            "match": {
+              "location": "Registrationdws.user_is_on_Demo_webshop_Registration_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5801017900,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "user leaves confirm password blank",
+            "match": {
+              "location": "Registrationdws.user_leaves_confirm_password_blank()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 181516900,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "clicks the button",
+            "match": {
+              "location": "Registrationdws.clicks_the_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11434350500,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "display alert password msg",
+            "match": {
+              "location": "Registrationdws.display_password_msg()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 35,
+            "name": "@UnsuccessfulRegistration"
+          }
+        ]
+      }
+    ],
+    "name": "Registration",
+    "description": "",
+    "id": "registration",
+    "keyword": "Feature",
+    "uri": "registrationdws.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "User is logged in to the website using valid credentials",
+        "description": "",
+        "type": "background",
+        "keyword": "Background"
+      },
+      {
+        "line": 5,
+        "name": "− Successful adding an item to the cart",
+        "description": "Description: This feature will test successful Add to cart functionality",
+        "id": "updatecart;−-successful-adding-an-item-to-the-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8729147700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User is on home page",
+            "match": {
+              "location": "UpdateShoppingCart.user_is_on_home_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 853033500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User clicks on books link",
+            "match": {
+              "location": "UpdateShoppingCart.user_clicks_on_books_link()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4136305900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "selects a book to add to cart",
+            "match": {
+              "location": "UpdateShoppingCart.selects_a_book_to_add_to_cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 61343700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "click on Add to cart",
+            "match": {
+              "location": "UpdateShoppingCart.click_on_Add_to_cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 295502000,
+              "error_message": "java.lang.AssertionError: expected [The product has been added to your shopping cart] but found []\r\n\tat org.testng.Assert.fail(Assert.java:94)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:496)\r\n\tat org.testng.Assert.assertEquals(Assert.java:125)\r\n\tat org.testng.Assert.assertEquals(Assert.java:178)\r\n\tat org.testng.Assert.assertEquals(Assert.java:188)\r\n\tat stepdefinition.UpdateShoppingCart.item_is_added_to_cart_successfully(UpdateShoppingCart.java:73)\r\n\tat ✽.And item is added to cart successfully(updateshoppingcartdws.feature:11)\r\n",
+              "status": "failed"
+            },
+            "line": 11,
+            "name": "item is added to cart successfully",
+            "match": {
+              "location": "UpdateShoppingCart.item_is_added_to_cart_successfully()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "User is on the shopping cart page",
+            "match": {
+              "location": "UpdateShoppingCart.user_is_on_the_shopping_cart_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "the user selects the items on remove",
+            "match": {
+              "location": "UpdateShoppingCart.the_user_selects_the_items_on_remove()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "clicks on the update button",
+            "match": {
+              "location": "UpdateShoppingCart.clicks_on_the_update_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "Cart should be updated",
+            "match": {
+              "location": "UpdateShoppingCart.cart_should_be_updated()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Update"
+          }
+        ]
+      }
+    ],
+    "name": "UpdateCart",
+    "description": "",
+    "id": "updatecart",
+    "keyword": "Feature",
+    "uri": "updateshoppingcartdws.feature"
+  }
+]
