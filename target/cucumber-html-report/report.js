@@ -44,28 +44,28 @@ formatter.match({
   "location": "Logindws.user_is_on_Demo_webshop_Login_page()"
 });
 formatter.result({
-  "duration": 13270848600,
+  "duration": 9578968000,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.user_enters_the_valid_email_and_password()"
 });
 formatter.result({
-  "duration": 2352344200,
+  "duration": 2339959200,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.clicks_the_button()"
 });
 formatter.result({
-  "duration": 3964225800,
+  "duration": 4210680600,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.user_is_navigated_to_home_page()"
 });
 formatter.result({
-  "duration": 1019530200,
+  "duration": 997387900,
   "status": "passed"
 });
 formatter.scenario({
@@ -106,28 +106,28 @@ formatter.match({
   "location": "Logindws.user_is_on_Demo_webshop_Login_page()"
 });
 formatter.result({
-  "duration": 12000571700,
+  "duration": 15815474600,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.user_enters_the_valid_email_and_invalid_password()"
 });
 formatter.result({
-  "duration": 2184008700,
+  "duration": 2330880400,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.clicks_the_button()"
 });
 formatter.result({
-  "duration": 3861577500,
+  "duration": 5090816000,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.display_alert_message()"
 });
 formatter.result({
-  "duration": 1509902200,
+  "duration": 1412550400,
   "status": "passed"
 });
 formatter.scenario({
@@ -168,28 +168,28 @@ formatter.match({
   "location": "Logindws.user_is_on_Demo_webshop_Login_page()"
 });
 formatter.result({
-  "duration": 9135456800,
+  "duration": 10245541800,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.user_enters_the_invlid_email_and_password()"
 });
 formatter.result({
-  "duration": 2258165200,
+  "duration": 2195599100,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.clicks_the_button()"
 });
 formatter.result({
-  "duration": 3763665200,
+  "duration": 3675194300,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.display_alert_message()"
 });
 formatter.result({
-  "duration": 1424744700,
+  "duration": 1444766800,
   "status": "passed"
 });
 formatter.scenario({
@@ -230,28 +230,28 @@ formatter.match({
   "location": "Logindws.user_is_on_Demo_webshop_Login_page()"
 });
 formatter.result({
-  "duration": 9019928500,
+  "duration": 9730995700,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.user_enters_the_invlid_email_and_valid_password()"
 });
 formatter.result({
-  "duration": 2240337500,
+  "duration": 2265983500,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.clicks_the_button()"
 });
 formatter.result({
-  "duration": 3761540100,
+  "duration": 3567678800,
   "status": "passed"
 });
 formatter.match({
   "location": "Logindws.display_alert_message()"
 });
 formatter.result({
-  "duration": 1434732800,
+  "duration": 1444298700,
   "status": "passed"
 });
 formatter.uri("registrationdws.feature");
@@ -302,21 +302,21 @@ formatter.match({
   "location": "Registrationdws.user_is_on_Demo_webshop_registration_page()"
 });
 formatter.result({
-  "duration": 10181953300,
+  "duration": 13471181400,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.user_enters_Gender_valid_First_name_Valid_Last_name_valid_password_and_matching_confirmPassword()"
 });
 formatter.result({
-  "duration": 6763524600,
+  "duration": 6990092600,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.message_displayed_Registration_Successful()"
 });
 formatter.result({
-  "duration": 2290524800,
+  "duration": 2336197900,
   "status": "passed"
 });
 formatter.background({
@@ -364,28 +364,28 @@ formatter.match({
   "location": "Registrationdws.user_is_on_Demo_webshop_Registration_page()"
 });
 formatter.result({
-  "duration": 9042413200,
+  "duration": 9238714300,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.user_leaves_first_Name_blank()"
 });
 formatter.result({
-  "duration": 5598728300,
+  "duration": 5575586000,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.clicks_the_button()"
 });
 formatter.result({
-  "duration": 109879600,
+  "duration": 157880200,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.display_alert_msg()"
 });
 formatter.result({
-  "duration": 11430654900,
+  "duration": 11347768000,
   "status": "passed"
 });
 formatter.background({
@@ -433,28 +433,28 @@ formatter.match({
   "location": "Registrationdws.user_is_on_Demo_webshop_Registration_page()"
 });
 formatter.result({
-  "duration": 8859680700,
+  "duration": 8799479800,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.user_leaves_last_Name_blank()"
 });
 formatter.result({
-  "duration": 5599588900,
+  "duration": 5573741500,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.clicks_the_button()"
 });
 formatter.result({
-  "duration": 151592400,
+  "duration": 194430000,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.display_alert_last_name_msg()"
 });
 formatter.result({
-  "duration": 11420910900,
+  "duration": 11364264300,
   "status": "passed"
 });
 formatter.background({
@@ -502,28 +502,28 @@ formatter.match({
   "location": "Registrationdws.user_is_on_Demo_webshop_Registration_page()"
 });
 formatter.result({
-  "duration": 24938260600,
+  "duration": 11172604500,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.user_enters_invalid_email_id()"
 });
 formatter.result({
-  "duration": 6813634100,
+  "duration": 6733728300,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.clicks_the_button()"
 });
 formatter.result({
-  "duration": 121006000,
+  "duration": 139541100,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.display_alert_invalid_email_format_msg()"
 });
 formatter.result({
-  "duration": 1429236500,
+  "duration": 1444273200,
   "status": "passed"
 });
 formatter.background({
@@ -571,28 +571,28 @@ formatter.match({
   "location": "Registrationdws.user_is_on_Demo_webshop_Registration_page()"
 });
 formatter.result({
-  "duration": 11710441300,
+  "duration": 9654266800,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.user_leaves_Email_id_blank()"
 });
 formatter.result({
-  "duration": 5709019300,
+  "duration": 5656414000,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.clicks_the_button()"
 });
 formatter.result({
-  "duration": 117806800,
+  "duration": 168985400,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.display_alert_email_msg()"
 });
 formatter.result({
-  "duration": 11423022200,
+  "duration": 11422597100,
   "status": "passed"
 });
 formatter.background({
@@ -640,28 +640,28 @@ formatter.match({
   "location": "Registrationdws.user_is_on_Demo_webshop_Registration_page()"
 });
 formatter.result({
-  "duration": 8910496000,
+  "duration": 8991404200,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.user_leaves_confirm_password_blank()"
 });
 formatter.result({
-  "duration": 5656111800,
+  "duration": 5536405400,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.clicks_the_button()"
 });
 formatter.result({
-  "duration": 110886500,
+  "duration": 168446500,
   "status": "passed"
 });
 formatter.match({
   "location": "Registrationdws.display_password_msg()"
 });
 formatter.result({
-  "duration": 11303656500,
+  "duration": 11409951200,
   "status": "passed"
 });
 formatter.uri("updateshoppingcartdws.feature");
@@ -742,63 +742,63 @@ formatter.match({
   "location": "UpdateShoppingCart.user_is_on_home_page()"
 });
 formatter.result({
-  "duration": 11029602800,
+  "duration": 9050209900,
   "status": "passed"
 });
 formatter.match({
   "location": "UpdateShoppingCart.user_clicks_on_books_link()"
 });
 formatter.result({
-  "duration": 1233309200,
+  "duration": 893996400,
   "status": "passed"
 });
 formatter.match({
   "location": "UpdateShoppingCart.selects_a_book_to_add_to_cart()"
 });
 formatter.result({
-  "duration": 4236131500,
+  "duration": 4011376200,
   "status": "passed"
 });
 formatter.match({
   "location": "UpdateShoppingCart.click_on_Add_to_cart()"
 });
 formatter.result({
-  "duration": 137757000,
+  "duration": 127177000,
   "status": "passed"
 });
 formatter.match({
   "location": "UpdateShoppingCart.item_is_added_to_cart_successfully()"
 });
 formatter.result({
-  "duration": 396049100,
+  "duration": 322771100,
   "status": "passed"
 });
 formatter.match({
   "location": "UpdateShoppingCart.user_is_on_the_shopping_cart_page()"
 });
 formatter.result({
-  "duration": 1036521000,
+  "duration": 525616500,
   "status": "passed"
 });
 formatter.match({
   "location": "UpdateShoppingCart.the_user_selects_the_items_on_remove()"
 });
 formatter.result({
-  "duration": 117844200,
+  "duration": 244298100,
   "status": "passed"
 });
 formatter.match({
   "location": "UpdateShoppingCart.clicks_on_the_update_button()"
 });
 formatter.result({
-  "duration": 639234700,
+  "duration": 731074400,
   "status": "passed"
 });
 formatter.match({
   "location": "UpdateShoppingCart.cart_should_be_updated()"
 });
 formatter.result({
-  "duration": 77531000,
+  "duration": 72267700,
   "status": "passed"
 });
 });
